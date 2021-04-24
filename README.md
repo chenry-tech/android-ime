@@ -1,3 +1,3 @@
 # android-ime
 
-## This is a input method app in Android.
+## This is a IME(Input Method) application in Android.
